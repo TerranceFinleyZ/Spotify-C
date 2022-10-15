@@ -1,1 +1,2 @@
-# Spotify-C: Using Nextjs, RecoilJS, R-API, TailwindCSS
+# Spotify-C:
+Using Nextjs, RecoilJS, R-API, TailwindCSS
